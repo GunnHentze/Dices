@@ -1,4 +1,4 @@
-
+// Hej
 
 public class Dice {
 	// roll the die and return the value (1-6)
