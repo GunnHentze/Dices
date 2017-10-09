@@ -1,0 +1,1 @@
+Dette er en test af **noget** der hedder *markdown filtyper*
