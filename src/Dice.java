@@ -14,6 +14,5 @@ public class Dice {
 		for (int i=1; i<n; i++) {
 			System.out.print(roll() + " ");
 		}	
-		System.out.println("Dette er en test");
 	}
 }
